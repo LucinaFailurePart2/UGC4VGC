@@ -11,7 +11,6 @@ core/iridium-browser/safe_browsing-disable-reporting-of-safebrowsing-over.patch
 core/iridium-browser/all-add-trk-prefixes-to-possibly-evil-connections.patch
 core/ungoogled-chromium/disable-crash-reporter.patch
 core/ungoogled-chromium/disable-google-host-detection.patch
-core/ungoogled-chromium/replace-google-search-engine-with-nosearch.patch
 core/ungoogled-chromium/disable-signin.patch
 core/ungoogled-chromium/toggle-translation-via-switch.patch
 core/ungoogled-chromium/disable-untraceable-urls.patch
@@ -47,7 +46,6 @@ extra/debian/disable/welcome-page.patch
 extra/debian/disable/google-api-warning.patch
 extra/iridium-browser/net-cert-increase-default-key-length-for-newly-gener.patch
 extra/iridium-browser/mime_util-force-text-x-suse-ymp-to-be-downloaded.patch
-extra/iridium-browser/prefs-only-keep-cookies-until-exit.patch
 extra/iridium-browser/prefs-always-prompt-for-download-directory-by-defaul.patch
 extra/iridium-browser/updater-disable-auto-update.patch
 extra/iridium-browser/Remove-EV-certificates.patch
@@ -83,7 +81,6 @@ extra/ungoogled-chromium/add-flag-to-disable-local-history-expiration.patch
 extra/ungoogled-chromium/add-extra-channel-info.patch
 extra/ungoogled-chromium/prepopulated-search-engines.patch
 extra/ungoogled-chromium/fix-distilled-icons.patch
-extra/ungoogled-chromium/add-flag-to-clear-data-on-exit.patch
 extra/ungoogled-chromium/add-flag-for-tabsearch-button.patch
 extra/ungoogled-chromium/add-flag-for-qr-generator.patch
 extra/ungoogled-chromium/add-flag-for-grab-handle.patch
